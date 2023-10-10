@@ -1,2 +1,2 @@
-name
+name2
 vt232_kos@student.ztu.edu.ua
