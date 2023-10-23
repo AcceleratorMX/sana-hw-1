@@ -1,2 +1,4 @@
 name2
+some text
+fnd second some text
 vt232_kos@student.ztu.edu.ua
