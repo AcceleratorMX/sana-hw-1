@@ -1,2 +1,4 @@
 SecondFile
 changed
+change file
+new some text
